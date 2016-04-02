@@ -1,0 +1,26 @@
+{
+  "name": "throwingdarts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+     "test": "mocha -R spec --bail --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypyang237/throwingdarts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypyang237/throwingdarts/issues"
+  },
+  "homepage": "https://github.com/ypyang237/throwingdarts#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
