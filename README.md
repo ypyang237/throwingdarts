@@ -1,2 +1,1 @@
-# throwingdarts
-# dartscorekeeper
+# dart score calc
